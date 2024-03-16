@@ -63,8 +63,8 @@ if [[ $aur_helper == "NONE" ]]; then
   echo
   echo "No AUR Helper detected, required by the toolkit."
   echo ""
-  echo "1 - Yay + Toolkit"
-  echo "2 - Paru + Toolkit"
+  echo "1 - Yay + Toolkit (Not the best)"
+  echo "2 - Paru + Toolkit (Fast/Recommended)"
   echo ""
   read -p "Choose your Helper : " number_chosen
 
